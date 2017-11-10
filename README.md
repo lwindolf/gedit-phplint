@@ -11,7 +11,7 @@ Gedit 3.14 and PHP CLI installed.
 Installation
 ------------
 
-You might want to install the plugin using these steps
+You might want to install the plugin using [Gedit Plugin Installer](https://github.com/lwindolf/gedit-plugininstaller) or these manual steps
 
     git clone https://github.com/lwindolf/gedit-phplint.git
     mkdir -p ~/.local/share/gedit/plugins/
