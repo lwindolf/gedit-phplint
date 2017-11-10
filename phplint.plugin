@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=phplint
+IAge=3
+Name=PHPLint
+Description=Check your PHP code with "php -l"
+Icon=emblem-default
+Authors=Lars Windolf <lars.windolf@gmx.de>, Xavier Gendre <gendre.reivax@gmail.com>
+Copyright=Copyright © 2017 Lars Windolf, 2016 Xavier Gendre
+Website=https://github.com/lwindolf/gedit-shellcheck
+Version=0.1
